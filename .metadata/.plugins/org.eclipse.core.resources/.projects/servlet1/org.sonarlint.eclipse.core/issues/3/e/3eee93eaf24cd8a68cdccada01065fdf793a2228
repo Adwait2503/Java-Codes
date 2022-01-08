@@ -1,0 +1,50 @@
+
+j
+java:S1854">Remove this useless assignment to local variable "parameter2".(õ‘çˇH◊RMAJORZ
+CODE_SMELL
+f
+java:S1854":Remove this useless assignment to local variable "writer".(ºΩŸÜHÿRMAJORZ
+CODE_SMELL
+
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ºΩŸÜHŸRMINORZVULNERABILITY
+W
+java:S1481"+Remove this unused "writer" local variable.(ºΩŸÜH⁄RMINORZ
+CODE_SMELL
+[
+java:S1481"/Remove this unused "parameter2" local variable.(õ‘çˇH‹RMINORZ
+CODE_SMELL
+Ç
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ÂÑëœHﬁRMINORZVULNERABILITY
+Ç
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(©˘À›HﬂRMINORZVULNERABILITY
+g	java:S125!"<This block of commented-out lines of code should be removed.(‡ﬁÔ⁄H‡RMAJORZ
+CODE_SMELL
+g	java:S125&"<This block of commented-out lines of code should be removed.(øÂˆ„H„RMAJORZ
+CODE_SMELL
+l	java:S125."<This block of commented-out lines of code should be removed.(ºßÖ⁄ˇˇˇˇˇHÈRMAJORZ
+CODE_SMELL
+b
+java:S1135/"2Complete the task associated to this TODO comment.(‡¯ˆ◊˚ˇˇˇˇHÙRINFOZ
+CODE_SMELL
+m
+java:S1128"<Remove this unused import 'javax.persistence.EntityManager'.(‡À“˝ˇˇˇˇHıRMINORZ
+CODE_SMELL
+o
+java:S1128"CRemove this unused import 'javax.persistence.EntityManagerFactory'.(Ó‹ùH˜RMINORZ
+CODE_SMELL
+q
+java:S1128"@Remove this unused import 'javax.persistence.EntityTransaction'.(∂ìÁ¸ˇˇˇˇH˘RMINORZ
+CODE_SMELL
+k
+java:S1128	":Remove this unused import 'javax.persistence.Persistence'.(õ≤ˆæ˝ˇˇˇˇH˚RMINORZ
+CODE_SMELL
+d
+java:S1128
+"9Remove this unused import 'javax.servlet.GenericServlet'.(ÇŸpH˝RMINORZ
+CODE_SMELL
+e
+java:S1128"9Remove this unused import 'javax.servlet.ServletRequest'.(Î¥·ŸHˇRMINORZ
+CODE_SMELL
+f
+java:S1128":Remove this unused import 'javax.servlet.ServletResponse'.(Ï√¢ªHÅRMINORZ
+CODE_SMELL

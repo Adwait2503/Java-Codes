@@ -1,0 +1,9 @@
+package com.te.spring.laptop;
+
+public class Laptop {
+	double cost;
+	Battery battery;
+	HardDisk hardDisk;
+	Os os;
+	Ram ram;
+}

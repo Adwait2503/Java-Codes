@@ -1,0 +1,20 @@
+package com.te.spring.problem;
+
+public class Engine implements Garage {
+
+	String name;
+	double capacity;
+
+	public Engine(String name, double capacity) {
+		super();
+		this.name = name;
+		this.capacity = capacity;
+	}
+
+	@Override
+	public void start() {
+		// TODO Auto-generated method stub
+		System.out.println(name + " Engine Has Started and the Horse Power is " + capacity);
+	}
+
+}

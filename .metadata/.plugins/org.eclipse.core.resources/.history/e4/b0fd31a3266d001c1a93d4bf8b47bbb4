@@ -1,0 +1,21 @@
+package com.te.spring.spring;
+
+public class Laptop {
+
+	Battery battery;
+	Screen screen;
+
+	public void setBattery(Battery battery) {
+		this.battery = battery;
+	}
+
+	public void setScreen(Screen screen) {
+		this.screen = screen;
+	}
+
+	@Override
+	public String toString() {
+		return "Laptop [battery=" + battery + ", screen=" + screen + "]";
+	}
+
+}

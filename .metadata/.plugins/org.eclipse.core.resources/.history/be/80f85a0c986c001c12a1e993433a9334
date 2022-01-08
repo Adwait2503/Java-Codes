@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- bean definitions here -->
+	<bean id="lap" class="com.te.spring.laptop.Laptop">
+		<property name="cost" value="45000" />
+		<constructor-arg ref="batt" />
+		<constructor-arg ref="hd" />
+	</bean>
+	<bean id="batt" class="com.te.spring.laptop.Battery">
+		<property name="brand" value="Liapo" />
+		<property name="volts" value="2.4" />
+	</bean>
+	<bean id="hd" class="com.te.spring.laptop.HardDisk">
+		<constructor-arg ref="Seagate" />
+		<constructor-arg ref="1.5" />
+	</bean>
+</beans>

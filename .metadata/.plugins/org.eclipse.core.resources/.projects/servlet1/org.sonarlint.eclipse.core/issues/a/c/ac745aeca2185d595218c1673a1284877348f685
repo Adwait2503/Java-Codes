@@ -1,0 +1,24 @@
+
+i
+java:S1854 ">Remove this useless assignment to local variable "dispatcher".(Ã¼â%HÃRMAJORZ
+CODE_SMELL
+j
+java:S1854">Remove this useless assignment to local variable "parameter2".(œóÜÍHÄRMAJORZ
+CODE_SMELL
+f
+java:S1854":Remove this useless assignment to local variable "writer".(¼½Ù†HÅRMAJORZ
+CODE_SMELL
+
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¼½Ù†HÆRMINORZVULNERABILITY
+W
+java:S1481"+Remove this unused "writer" local variable.(¼½Ù†HÇRMINORZ
+CODE_SMELL
+[
+java:S1481"/Remove this unused "parameter2" local variable.(œóÜÍHÉRMINORZ
+CODE_SMELL
+]
+java:S1481"1Remove this unused "singleResult" local variable.(ÔÕïÊHËRMINORZ
+CODE_SMELL
+Z
+java:S1481 "/Remove this unused "dispatcher" local variable.(Ã¼â%HÍRMINORZ
+CODE_SMELL

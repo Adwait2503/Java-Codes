@@ -1,0 +1,5 @@
+package com.te.springmvc.model;
+
+public class Register {
+
+}

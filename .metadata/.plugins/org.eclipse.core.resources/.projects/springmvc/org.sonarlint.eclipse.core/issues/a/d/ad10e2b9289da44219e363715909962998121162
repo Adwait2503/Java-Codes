@@ -1,0 +1,24 @@
+
+m	java:S1256"<This block of commented-out lines of code should be removed.(Û÷f8öğöšã/HíRMAJORZ
+CODE_SMELL
+s
+java:S1128";Remove this unused import 'javax.servlet.http.HttpServlet'.(û÷Å›ÿÿÿÿÿ8©Šîúâ/HÏRMINORZ
+CODE_SMELL
+s	java:S125$"<This block of commented-out lines of code should be removed.(™Ÿ†³ıÿÿÿÿ8‡·Àöâ/HÓRMAJORZ
+CODE_SMELL
+†
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.ModelAttribute'.(®ùæé8öğöšã/HîRMINORZ
+CODE_SMELL
+}
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8©Šîúâ/H×RMINORZ
+CODE_SMELL
+u
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8©Šîúâ/HÍRMINORZ
+CODE_SMELL
+v
+java:S4488!"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ŠŞÌËHÕRMINORZ
+CODE_SMELL
+s	java:S125""<This block of commented-out lines of code should be removed.(¬ÿ„ûÿÿÿÿ8‡·Àöâ/HÑRMAJORZ
+CODE_SMELL
+y
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(»”¹±8â£æ ã/HçRCRITICALZVULNERABILITY

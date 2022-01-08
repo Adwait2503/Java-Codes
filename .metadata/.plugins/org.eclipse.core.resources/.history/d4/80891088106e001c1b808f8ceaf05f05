@@ -1,0 +1,9 @@
+package com.te.spring.lifecycle;
+
+public class BeanConfig {
+
+	public () {
+		// TODO Auto-generated constructor stub
+		System.out.println("From Test()");
+	}
+}

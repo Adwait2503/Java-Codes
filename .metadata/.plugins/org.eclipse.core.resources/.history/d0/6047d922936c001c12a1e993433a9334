@@ -1,0 +1,13 @@
+package com.te.spring.laptop;
+
+public class HardDisk {
+	String brand;
+	double size;
+
+	public HardDisk(String brand, double size) {
+		super();
+		this.brand = brand;
+		this.size = size;
+	}
+
+}

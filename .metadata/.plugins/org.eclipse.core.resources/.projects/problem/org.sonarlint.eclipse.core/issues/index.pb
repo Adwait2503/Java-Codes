@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+d
+4src/main/java/com/te/spring/problem/TurboEngine.java,b\0\b08d12cbf587e7848a5f3750a228d60423a4210d
+\
+,src/main/java/com/te/spring/scope/Dremo.java,3\4\34487e52a0cd42e92211eb75f95f75241537b469
+[
++src/main/java/com/te/spring/scope/Test.java,e\1\e1ba78357d71f75a811d839b7ae8b5e161e025ab
+_
+/src/main/java/com/te/spring/problem/Engine.java,8\6\86267e083113950d36c09796edc68763b253a672
+_
+/src/main/java/com/te/spring/problem/Garage.java,8\7\877c08a9bc8fcb0f883849047ebfa64f48fa97e7
+_
+/src/main/java/com/te/spring/problem/Driver.java,6\7\6738f5c939c43c4427b42093328f10ebb52406ca
+O
+src/main/java/configuration.xml,d\6\d6a38f7487a994bb3f880f126c9f531262417483
+\
+,src/main/java/com/te/spring/problem/Car.java,1\5\15ed120e90fd3f43b337e1a390aa096a0d65fc66

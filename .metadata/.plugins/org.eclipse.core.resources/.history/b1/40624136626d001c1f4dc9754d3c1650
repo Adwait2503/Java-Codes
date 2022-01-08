@@ -1,0 +1,5 @@
+package com.te.spring.springannotationxml.bean;
+
+public class Employee {
+
+}

@@ -1,0 +1,28 @@
+package com.te.spring.springbean;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class Pet implements Animal {
+
+	String name;
+	@Autowired
+	Animal animal;
+
+	@Override
+	public void eat() {
+
+	}
+
+	@Override
+	public void makesound() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public boolean isPet() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

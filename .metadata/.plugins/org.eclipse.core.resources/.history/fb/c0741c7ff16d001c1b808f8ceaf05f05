@@ -1,0 +1,25 @@
+package com.te.spring.springbean.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import com.te.spring.springbean.Cat;
+import com.te.spring.springbean.Dog;
+
+@Configuration
+public class Config {
+	@Bean("Dog")
+	public Dog getDog() {
+		return new Dog();
+	}
+
+	@Bean
+	public Cat getCat() {
+		return new Cat();
+	}
+
+	@Bean
+	public Lion getLion() {
+		return new Lion();
+	}
+}

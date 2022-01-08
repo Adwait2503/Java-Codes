@@ -1,0 +1,11 @@
+package com.te.spring.problem;
+
+public class Engine implements Garage{
+
+	@Override
+	public void start() {
+		// TODO Auto-generated method stub
+		System.out.println("Engine Has Started");
+	}
+
+}
