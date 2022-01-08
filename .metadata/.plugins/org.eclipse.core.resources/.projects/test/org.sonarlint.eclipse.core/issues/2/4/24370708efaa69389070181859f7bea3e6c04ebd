@@ -1,0 +1,16 @@
+
+f	java:S106"9Replace this use of System.out or System.err by a logger.(—¹›»ýÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(Ê€ÖšRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(—¹›»ýÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ºÅÃøýÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(—¹›»ýÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(§ÙªíþÿÿÿÿRMAJORZ
+CODE_SMELL
+‘
+java:S1192"`Define a constant instead of duplicating this literal "Enter a Number of your Choice :" 3 times.(—¹›»ýÿÿÿÿRCRITICALZ
+CODE_SMELL

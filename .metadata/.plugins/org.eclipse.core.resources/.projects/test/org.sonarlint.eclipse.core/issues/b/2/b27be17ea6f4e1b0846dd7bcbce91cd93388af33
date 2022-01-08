@@ -1,0 +1,16 @@
+
+f
+java:S1854
+"8Remove this useless assignment to local variable "fact".(¬ÏùØûÿÿÿÿRMAJORZ
+CODE_SMELL
+R
+java:S1481")Remove this unused "fact" local variable.(Ä»òRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(—¹›»ıÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(œğšõşÿÿÿÿRMAJORZ
+CODE_SMELL
+\
+java:S1121
+".Extract the assignment out of this expression.(¬ÏùØûÿÿÿÿRMAJORZ
+CODE_SMELL
